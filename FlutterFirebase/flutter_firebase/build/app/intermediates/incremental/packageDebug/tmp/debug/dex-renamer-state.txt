@@ -1,0 +1,4 @@
+#Thu Mar 25 01:51:32 EET 2021
+base.0=/Volumes/Files/Work/FlutterFirebase/flutter_firebase/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

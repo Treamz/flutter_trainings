@@ -1,0 +1,4 @@
+#Tue Mar 02 14:51:49 EET 2021
+base.0=/Volumes/Files/Work/unsplash_testapp/unsplash_testapp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

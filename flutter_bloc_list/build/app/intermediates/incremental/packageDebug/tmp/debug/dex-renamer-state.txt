@@ -1,0 +1,4 @@
+#Fri Mar 12 18:29:02 EET 2021
+base.0=/Volumes/Files/Work/flutter_bloc_list/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
